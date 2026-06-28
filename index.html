@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>BITHORCOIN | Nodo Central</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-black text-white p-6">
+    <div id="app" class="max-w-lg mx-auto text-center">
+        <h1 class="text-3xl font-bold text-yellow-500 mb-4">BITHORCOIN</h1>
+        <p class="mb-6">Sistema descentralizado de 33 nodos activos.</p>
+        
+        <div id="admin-panel" class="hidden bg-gray-900 p-4 rounded border border-yellow-500 mb-4">
+            <h2 class="text-xl font-bold">Panel de Administrador</h2>
+            <p>Acceso concedido al Fundador.</p>
+        </div>
+
+        <button onclick="acceder()" class="w-full bg-yellow-600 p-4 rounded-lg font-bold text-lg hover:bg-yellow-500 transition">
+            Entrar al Ecosistema
+        </button>
+    </div>
+
+    <script>
+        // ADN DE BITHORCOIN
+        const GENESIS = {
+            ADMIN_ADDRESS: "PROPIETARIO_BITHORCOIN",
+            VERSION: "1.0.0",
+            NODOS: 33
+        };
+
+        function acceder() {
+            alert("BITHORCOIN: Conectando al nodo principal...");
+        }
+    </script>
+</body>
+</html>
