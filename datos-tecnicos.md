@@ -11,7 +11,7 @@
 | **Fecha de lanzamiento** | Octubre 2026 |
 | **Preventa** | Ninguna |
 | **Reservas del equipo** | Ninguna |
-| **Dirección del contrato** | Próximamente |
+| **Dirección del contrato** 0xfe85068BF293e24b6BCdFBAfDbEB069C9B62AdF4
 | **Enlace del pool** | Próximamente |
 
 ## Principios técnicos
