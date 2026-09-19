@@ -13,7 +13,7 @@
 | **Reservas del equipo** | Ninguna |
 | **Dirección del contrato** 0xfe85068BF293e24b6BCdFBAfDbEB069C9B62AdF4
 | **Enlace del pool** | Próximamente |
-
+Verificar en PolygonScan | https://polygonscan.com/address/0xfe85068BF293e24b6BCdFBAFDbEB069C9B62AdF4
 ## Principios técnicos
 - ✅ Sin acuñación posterior: no se creará ni una moneda más
 - ✅ Transparencia: todo verificado en explorador de Polygon
