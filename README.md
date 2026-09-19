@@ -61,4 +61,26 @@ BTHOR no es solo una criptomoneda. Es una propuesta distinta: **cambiar las regl
 
 > *"No necesitamos más dinero. Necesitamos que el dinero sirva a la gente."*
 > — Equipo BITHORCOIN
-Documento oficial BITHORCOIN
+Documento oficial
+>
+> ---
+
+## 🌍 BITHORCOIN — BTHOR: Hechos, no promesas
+
+BTHOR no es otra moneda para especular. Es un sistema financiero que **nace justo**:
+
+- ✅ **Suministro fijo:** 1.000.000 BTHOR — no se creará ni una más
+- ✅ **Sin preventa:** nadie compra antes que vos
+- ✅ **Sin reservas:** nadie tiene monedas guardadas por debajo
+- ✅ **Contrato público:** verificalo tú mismo en PolygonScan
+- ✅ **Red:** Polygon — rápida, económica, accesible
+- ✅ **Lanzamiento del pool:** Octubre / Noviembre 2026
+- ✅ **Par:** USDC
+
+> No te pedimos que nos creas. Verificá la dirección. Contá las unidades. Decidí vos.
+> Esa es la verdadera libertad financiera.
+
+🔗 Página completa: **yavi219.github.io/BITHORCOIN**
+
+---
+⚠️ No es consejo financiero. Investigá siempre por tu cuenta.
